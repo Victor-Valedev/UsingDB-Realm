@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.victor.usingrealm"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.victor.usingrealm"

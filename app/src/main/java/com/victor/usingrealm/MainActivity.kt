@@ -29,6 +29,18 @@ class MainActivity : AppCompatActivity() {
                 age = 23
             }
             realm.save( user )
+        }
+
+        binding.btnListar.setOnClickListener {
+
+            val list = realm.list()
+
+            var listText = ""
+
+            list.forEach{ user ->
+                listText += "${user.name} - age: ${user.age} \n"
+            }
+            binding.textResultado.text = listText
 
         }
 
