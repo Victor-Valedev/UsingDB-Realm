@@ -1,8 +1,9 @@
-<h1> Projeto CRUD com Realm MongoDB <h1/>
-<p>Este projeto é um exemplo simples de um CRUD (Create, Read, Update, Delete) utilizando o banco de dados Realm MongoDB. Foi desenvolvido como parte do meu aprendizado na profissão de desenvolvedor Android, durante a mentoria com Jamilton Damasceno.</p>
+<h1> CRUD Project with Realm MongoDB <h1/>
+<p>This project is a simple example of a CRUD (Create, Read, Update, Delete) using the Realm MongoDB database. It was developed as part of my learning journey in the profession of Android development, during mentorship with Jamilton Damasceno.</p>
 
-<h1>Como usar:</h1>
+<h1>How to use:</h1>
 
-<h2>Antes de começar a usar o Realm MongoDB em seu projeto Android, é necessário adicionar algumas dependências ao seu arquivo build.gradle.</h2>
+<h2>Before starting to use Realm MongoDB in your Android project, you need to add some dependencies to your build.gradle file.
+Refer to this link in the official MongoDB documentation (https://www.mongodb.com/docs/realm/sdk/kotlin/install/).</h2>
 
-<h1>Consulte este link da documentação oficial no site do MONGODB (https://www.mongodb.com/docs/realm/sdk/kotlin/install/)</h1>
+
